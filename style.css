@@ -3,7 +3,7 @@ body, html {
   height: 100%;
   margin: 0;
   font-family: Times New Roman, serif; /* definitely check out https://www.w3schools.com/cssref/pr_font_font-family.asp for more info on font families */
-  background-color: lightgrey;
+  background-color: #9e9d24;
 }
 
 .hero-image {
